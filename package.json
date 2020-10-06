@@ -1,5 +1,5 @@
 {
-  "name": "react-native-aps-template",
+  "name": "react-native-template-aps",
   "version": "0.0.1",
   "description": "Clean and minimalist React Native template for ApecSoft Mobile Team.",
   "files": [
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emin93/react-native-template-typescript.git"
+    "url": "git+https://github.com/ntit365/react-native-aps-template.git"
   },
   "keywords": [
     "react-native",
@@ -18,7 +18,11 @@
   "author": "Nguyễn Trường <truongnv@apecsoft.asia>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emin93/react-native-template-typescript/issues"
+    "url": "https://github.com/ntit365/react-native-aps-template/issues"
   },
-  "homepage": "https://github.com/emin93/react-native-template-typescript#readme"
+  "homepage": "https://github.com/ntit365/react-native-aps-template#readme",
+  "main": "template.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
